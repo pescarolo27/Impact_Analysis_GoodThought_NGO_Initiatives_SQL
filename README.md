@@ -7,3 +7,5 @@
 **The Objectives:**
 1)  List the top five assignments based on total value of donations, categorized by donor type.
 2) Identify the assignment with the highest impact score in each region, ensuring that each listed assignment has received at least one donation.
+
+This project was done in February, 2026.
